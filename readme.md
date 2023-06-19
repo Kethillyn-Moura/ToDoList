@@ -24,7 +24,7 @@
 <ol>
 <li>HTML: Utilizado para estruturar a página do aplicativo de lista de tarefas.</li>
 <li>CSS: Utilizado para estilizar a aparência do aplicativo.</li>
-<li>JavaScript: Utilizado para implementar a lógica de adicionar, marcar como concluído, excluir e filtrar tarefas.</li>
+<li>JavaScript: Utilizado para implementar a lógica de adicionar e marcar como concluído.</li>
 </ol>
 
 
